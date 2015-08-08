@@ -1,0 +1,12 @@
+{
+  "name": "breakout",
+  "private": true,
+  "dependencies": {
+  },
+  "overrides": {
+  },
+  "devDependencies": {
+    "chai": "~3.2.0",
+    "mocha": "~2.2.5"
+  }
+}
